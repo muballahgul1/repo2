@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is F4A3-09FB
-
- Directory of C:\Users\gul_l\Desktop\NewProjecr
-
-07/22/2020  02:15 AM    <DIR>          .
-07/22/2020  02:15 AM    <DIR>          ..
-07/22/2020  02:15 AM                 0 new.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  429,136,023,552 bytes free
+ change for new work
